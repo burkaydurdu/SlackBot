@@ -1,0 +1,9 @@
+{
+    "author": "burkay durdu",
+    "version": "0.0.1",
+    "description": "slack bot",
+    "main": "index.js",
+    "dependencies": {
+        "@slack/client": "^3.16.0"
+    }
+}
