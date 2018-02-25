@@ -1,11 +1,14 @@
 {
-    "author": "burkay durdu",
+    "name": "devburbot",
     "version": "0.0.1",
     "description": "slack bot",
+    "author": "burkay durdu",
     "scripts": {
         "start": "node index.js"
     },
     "dependencies": {
-        "@slack/client": "^3.16.0"
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "request": "^2.83.0"
     }
 }
